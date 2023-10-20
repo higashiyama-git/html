@@ -1,0 +1,38 @@
+header
+.top-text {
+    background-image: url(top-gazou1.webp);
+    text-align: center;
+}
+
+.top-text h1 {
+    color: wheat; 
+}
+.top-div {
+    color: wheat;
+}
+
+main 
+.recipe-h2 {
+    margin: 20px 0px 20px 0px;
+    border-bottom: 3px solid yellowgreen;
+    padding: 0px 0px 2px 0px;
+}
+
+.side h3 {
+    background-color: greenyellow;
+
+}
+
+
+footer
+.recipe-content {
+    background-repeat: repeat;
+}
+
+.copyright {
+    background-color: brown;
+    color: wheat;
+    text-align: center;
+}
+
+
